@@ -21,6 +21,15 @@ public class IrishFutsalLeague {
         System.out.println("4. Clontarf Vikings FC");
         System.out.println("5. St Itas FC");
         System.out.println("6. Croata Dublin FC");
+        
+        System.out.println(" ");
+        
+        System.out.println("AUL Futsal 2nd Division 23/24 clubs:");
+        System.out.println("1. Blue Magic B");
+        System.out.println("2. Old Boys FC");
+        System.out.println("3. DCU Futsal");
+        System.out.println("4. Moldova Boys FC");
+        System.out.println("5. Bohemian Futsal");
     }
     
 }
