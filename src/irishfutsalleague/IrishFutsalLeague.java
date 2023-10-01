@@ -30,6 +30,15 @@ public class IrishFutsalLeague {
         System.out.println("3. DCU Futsal");
         System.out.println("4. Moldova Boys FC");
         System.out.println("5. Bohemian Futsal");
+        
+        System.out.println(" ");
+        
+        System.out.println("Traditional Club who are out of the AUL Season 23/24");
+        System.out.println("1. Real Transylvania FC");
+        System.out.println("2. Puskas Hagi Ashbourne FC");
+        System.out.println("3. Dublin City FC");
+        System.out.println("4. Path2Pro FC");
+        System.out.println("5. Ballymun FC");
     }
     
 }
